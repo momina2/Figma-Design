@@ -4,7 +4,7 @@
 
 
 ## Design
-This amazing design in figma was created by By Olga.  [Figma](https://www.figma.com/file/YMG84YUhKKSWWiOSdYWWGt/Figma-Design-Desktop?type=design&node-id=0%3A1&mode=dev&t=mjdED0q2SIN0wyAo-1)
+This design in figma is created by Momina.  [Figma](https://www.figma.com/file/YMG84YUhKKSWWiOSdYWWGt/Figma-Design-Desktop?type=design&node-id=0%3A1&mode=dev&t=mjdED0q2SIN0wyAo-1)
 
 
 
